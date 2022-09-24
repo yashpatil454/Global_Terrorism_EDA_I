@@ -20,6 +20,8 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: Dataset information:</h2>
+Dataset link: https://drive.google.com/file/d/1cjnEC2BzLIwkdZ2kEn8XYIxrqUP78PPz/view?usp=sharing
+
 Features in the dataset:
 
 * Eventid : Unique Id assigned to a terrorist attack.
